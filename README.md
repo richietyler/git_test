@@ -1,0 +1,1 @@
+This is Richie's first Git project!
